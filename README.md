@@ -3,6 +3,6 @@
 "The creation of a thousand forests is in one acorn."
 ~Ralph Waldo Emerson
 
-## Why?
+**Why?**
 
-Acorn is a mostly naked, boilerplate HTML / CSS starter site with bootstrap 3.3.2 included.
+Acorn is a mostly naked, boilerplate starter site with bootstrap 3.3.2 included. Intended to use as a starter sandbox for an introduction to HTML/CSS workshop.
